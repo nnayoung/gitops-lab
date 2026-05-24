@@ -9,4 +9,4 @@ resources:
 images:
 - name: skdud1201/hello-app
   newName: skdud1201/hello-app
-  newTag: f6cbf7c
+  newTag: ba53d65
